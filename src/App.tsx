@@ -10,7 +10,7 @@ function App() {
     let [tasks, setTasks] = useState([
         {id: 1, title: "HTML&CSS", isDone: true},
         {id: 2, title: "Js", isDone: false},
-        {id: 3, title: "React", isDone: true},
+        {id: 3, title: "Reactt", isDone: true},
         {id: 4, title: "Redux", isDone: true},
     ])
 
