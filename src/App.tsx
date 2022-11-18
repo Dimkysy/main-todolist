@@ -13,7 +13,7 @@ let tasks1 = [
 function App() {
     return (
         <div className="App">
-           <Todolist title =" Hello" tasks = {tasks1} />
+           <Todolist title ="Bear" tasks = {tasks1} />
         </div>
     );
 }
